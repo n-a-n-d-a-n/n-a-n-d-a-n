@@ -1,5 +1,6 @@
 ## 👋 Hi, myself **Nandan Kabra**
 
+## About
 🎓 AI & Data Science Student
 🚀 Building impactful projects
 
