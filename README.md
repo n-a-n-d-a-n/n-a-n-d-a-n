@@ -1,6 +1,4 @@
-## <h1 align="center">
-  Hi 👋, I'm <span style="color:#00BFFF;"><b>Nandan Kabra</b></span>
-</h1>
+## 👋 Hi, myself **Nandan Kabra**
 
 🎓 AI & Data Science Student
 🚀 Building impactful projects
