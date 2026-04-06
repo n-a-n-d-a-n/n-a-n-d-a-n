@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, myself <b>Nandan Kabra</b></h1>
 
 ## 👤 About
-🎓 AI & Data Science Student
+🎓 AI & Data Science Student<br>
 🚀 Building impactful projects
 
 ## 🌐 Connect with me
