@@ -1,6 +1,11 @@
 <h1 align="center">👋 Hi, myself <b>Nandan Kabra</b></h1>
 
-🎓 AI & Data Science Student                           🚀 Building impactful projects
+<table width="100%">
+  <tr>
+    <td align="left">🎓 AI & Data Science Student</td>
+    <td align="right">🚀 Building impactful projects</td>
+  </tr>
+</table>
 
 ## 🌐 Connect with me
 [LinkedIn](https://www.linkedin.com/in/nandan-kabra-334464332/) | [Email](mailto:kabranandan2006@gmail.com) | [Kaggle](https://www.kaggle.com/nandankabra25) | [X](https://x.com/_nandan1131_)
