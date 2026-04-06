@@ -1,4 +1,4 @@
-## 👋 Hi, myself **Nandan Kabra**
+<h1 align="center">👋 Hi, myself <b>Nandan Kabra</b></h1>
 
 ## 👤 About
 🎓 AI & Data Science Student
