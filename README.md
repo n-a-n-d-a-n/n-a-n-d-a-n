@@ -44,7 +44,7 @@
 → Recommends music using facial expressions
 
 🔹 Pothole Detection System
-→ Real-time detection using YOLO + GPS
+→ Real-time detection using YOLOv8 + GPS
 
 🔹 GST Billing Software
 → Full-stack billing system for small businesses
