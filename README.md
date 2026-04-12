@@ -61,8 +61,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n-a-n-d-a-n&show_icons=true&theme=radical" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=n-a-n-d-a-n&theme=radical" />
 </p>
 
