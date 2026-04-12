@@ -70,6 +70,7 @@
 
 ## 🎯 Current Focus
 
-* 🔍 Exploring Machine Learning & Computer Vision
+* 🔍 Exploring Machine Learning & Algorithms
 * ⚙️ Improving backend & system design skills
 * 🌍 Contributing to open source
+* 📚 Learning Data Structures & Algorithms (DSA)
