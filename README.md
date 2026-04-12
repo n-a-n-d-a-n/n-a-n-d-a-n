@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hi, myself <b>Nandan Kabra!!</b></h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=n-a-n-d-a-n&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 <table width="100%" style="width:100%; border:none;">
   <tr>
     <td align="left"><b>🎓 AI & Data Science Student</b></td>
@@ -59,7 +63,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=n-a-n-d-a-n&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=n-a-n-d-a-n&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=n-a-n-d-a-n&theme=radical" />
 </p>
 
 ---
