@@ -8,6 +8,8 @@
   </tr>
 </table>
 
+---
+
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nandan-kabra-334464332/)
@@ -16,10 +18,54 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/nandan_._8131/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/nandankabra25)
 
+---
+
+## 👤 About Me
+
+🎓 AI & Data Science Student
+💡 Passionate about solving real-world problems
+🚀 Building AI & Web-based projects
+
+---
 
 ## 🛠️ Skills
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,mongodb,git,github,blender,flask,jquery,mysql,nextjs,npm,opencv,pkl,powershell,sqlite,sklearn,svg,tailwind,unity,vercel,vscode,bootstrap,express,arduino,supabase" />
   </a>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 AI Music Recommendation System
+→ Recommends music using facial expressions
+
+🔹 Pothole Detection System
+→ Real-time detection using YOLO + GPS
+
+🔹 GST Billing Software
+→ Full-stack billing system for small businesses
+
+🔹 Club Management Website
+→ Dynamic website for managing student clubs
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=n-a-n-d-a-n&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=n-a-n-d-a-n&theme=radical" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* 🔍 Exploring Machine Learning & Computer Vision
+* ⚙️ Improving backend & system design skills
+* 🌍 Contributing to open source
