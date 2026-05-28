@@ -43,7 +43,7 @@ Streamlit-based ML robustness testing tool — benchmarks models under noise, cl
 Bilingual (Marathi + English) crop price prediction and sell/store/process strategy recommender for Maharashtra farmers. Hackathon project with 30 crop-specific spoilage profiles using ICAR/NHB data.
 > `Flask` `Python` `ML` `bilingual NLP`
 
-### 🕳️ Pothole Detection System *(research in progress)*
+### 🕳️ Pothole Detection System
 Real-time road defect detection using **YOLOv8** with GPS geolocation tagging and automated Google Sheets reporting.
 > `YOLOv8` `OpenCV` `Python` `Geolocation`
 
