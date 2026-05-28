@@ -74,6 +74,6 @@ Pure Python music recommender that maps detected facial expressions to mood-base
 ## 🎯 Currently
 
 - Finishing **CI/CD + robustness testing** on AI Model Performance Simulator
-- Writing a research paper on YOLO-based pothole detection
+- Completing the **AI Model Performance Simulator** research paper on ML robustness testing
 - Deepening system design and backend architecture knowledge
 - Contributing to open source (VIT Tech Awareness Workshop — upcoming)
