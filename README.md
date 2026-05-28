@@ -23,7 +23,7 @@
 
 - 🎓 Second-year B.Tech in AI & Data Science, VIT Pune
 - 🛡️ Building open-source tools at the intersection of ML, security, and web systems
-- 🔬 Research in progress: YOLO-based pothole detection with geolocation (paper pending)
+- 🔬 Research in progress: AI Model Performance Simulator — robustness testing framework for ML models (paper pending)
 - 🌍 Open source contributor · Hackathon builder
 
 ---
