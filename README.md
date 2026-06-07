@@ -32,13 +32,13 @@
 
 ## 🚀 Featured Projects
 
-### 🛡️ [Aegis — Zero-Trust Whistleblower Platform](https://github.com/n-a-n-d-a-n/aegis)
+### 🛡️ [Aegis - Zero-Trust Whistleblower Platform](https://github.com/n-a-n-d-a-n/aegis)
 Secure anonymous reporting platform with **RSA-4096 + AES-256-GCM** end-to-end encryption.
 Built with FastAPI backend, Cloudflare Worker frontend, Docker, and GitHub Actions CI/CD.
 > `FastAPI` `Cloudflare Workers` `Docker` `GitHub Actions` `Python`
 
 ### 🤖 [AI Model Performance Simulator](https://github.com/n-a-n-d-a-n/AI-Model-Performance-Simulator)
-Streamlit-based ML robustness testing tool — benchmarks models under noise, class imbalance, and adversarial conditions with visual diagnostics.
+Streamlit-based ML robustness testing tool - benchmarks models under noise, class imbalance, and adversarial conditions with visual diagnostics.
 > `Python` `Streamlit` `scikit-learn` `Matplotlib` `pandas`
 
 ### 🌾 [KrishiAdvisor AI](https://github.com/n-a-n-d-a-n/krishi-advisor-ai)
@@ -75,14 +75,14 @@ Pure Python music recommender that maps detected facial expressions to mood-base
 
 ## 🎯 Currently
 
-- 📱 Getting into **App Development** — exploring mobile-first builds
+- 📱 Getting into **App Development** - exploring mobile-first builds
 - 🧠 Grinding **DSA & Problem Solving** for placements
-- 🔬 Going deep into **ML internals** — beyond sklearn, into the math and architecture
+- 🔬 Going deep into **ML internals** - beyond sklearn, into the math and architecture
 
 ---
 
 ## 📫 Connect with Me
 
-- 📧 **Email** — [kabranandan2006@gmail.com](mailto:kabranandan2006@gmail.com)
-- 💼 **LinkedIn** — [Nandan Kabra](https://www.linkedin.com/in/nandan-kabra-334464332/)
-- 🐙 **GitHub** — [n-a-n-d-a-n](https://github.com/n-a-n-d-a-n)
+- 📧 **Email** - [kabranandan2006@gmail.com](mailto:kabranandan2006@gmail.com)
+- 💼 **LinkedIn** - [Nandan Kabra](https://www.linkedin.com/in/nandan-kabra-334464332/)
+- 🐙 **GitHub** - [n-a-n-d-a-n](https://github.com/n-a-n-d-a-n)
