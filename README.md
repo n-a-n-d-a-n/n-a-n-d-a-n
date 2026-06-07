@@ -75,7 +75,6 @@ Pure Python music recommender that maps detected facial expressions to mood-base
 
 ## 🎯 Currently
 
-- Finishing **CI/CD + robustness testing** on AI Model Performance Simulator
-- Completing the **AI Model Performance Simulator** research paper on ML robustness testing
-- Deepening system design and backend architecture knowledge
-- Contributing to open source (VIT Tech Awareness Workshop — upcoming)
+- 📱 Getting into **App Development** — exploring mobile-first builds
+- 🧠 Grinding **DSA & Problem Solving** for placements
+- 🔬 Going deep into **ML internals** — beyond sklearn, into the math and architecture
