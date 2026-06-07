@@ -26,16 +26,9 @@
   <img src="https://komarev.com/ghpvc/?username=n-a-n-d-a-n&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
----
-
-## 👤 About
-
-- 🎓 Second-year B.Tech in AI & Data Science, VIT Pune
-- 🛡️ Building open-source tools at the intersection of ML, security, and web systems
-- 🔬 Research in progress: AI Model Performance Simulator — robustness testing framework for ML models (paper pending)
-- 🌍 Open source contributor · Hackathon builder
-
----
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
 ## 🚀 Featured Projects
 
