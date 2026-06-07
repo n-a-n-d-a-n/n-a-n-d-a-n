@@ -78,3 +78,11 @@ Pure Python music recommender that maps detected facial expressions to mood-base
 - 📱 Getting into **App Development** — exploring mobile-first builds
 - 🧠 Grinding **DSA & Problem Solving** for placements
 - 🔬 Going deep into **ML internals** — beyond sklearn, into the math and architecture
+
+---
+
+## 📫 Connect with Me
+
+- 📧 **Email** — [kabranandan2006@gmail.com](mailto:kabranandan2006@gmail.com)
+- 💼 **LinkedIn** — [Nandan Kabra](https://www.linkedin.com/in/nandan-kabra-334464332/)
+- 🐙 **GitHub** — [n-a-n-d-a-n](https://github.com/n-a-n-d-a-n)
