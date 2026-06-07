@@ -9,6 +9,24 @@
 </pre>
 </div>
 
+<h1 align="center">Hi there 👋, I'm Nandan Kabra</h1>
+
+<h3 align="center">
+  🎓 B.Tech | AI & Data Science @ VIT Pune <br/>
+  🤖 ML Engineer • Security Tools Builder • Open Source Contributor
+</h3>
+
+<p align="center">
+  <a href="mailto:kabranandan2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nandan-kabra-334464332/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/nandankabra25"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://x.com/_nandan1131_/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=n-a-n-d-a-n&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 <p align="center">
   AI & Data Science undergrad @ VIT Pune · Building production-grade ML systems and security tools
 </p>
