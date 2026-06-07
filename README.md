@@ -27,14 +27,6 @@
   <img src="https://komarev.com/ghpvc/?username=n-a-n-d-a-n&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  AI & Data Science undergrad @ VIT Pune · Building production-grade ML systems and security tools
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=n-a-n-d-a-n&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🌐 Connect
