@@ -59,7 +59,7 @@ Pure Python music recommender that maps detected facial expressions to mood-base
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,flask,fastapi,react,mongodb,docker,git,opencv,sklearn" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,flask,fastapi,react,mongodb,git,opencv,sklearn" />
   </a>
 </p>
 
