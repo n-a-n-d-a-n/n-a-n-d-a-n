@@ -12,7 +12,7 @@
 <h1 align="center">Hi there 👋, I'm Nandan Kabra</h1>
 
 <h3 align="center">
-  🎓 B.Tech | TY | AI & DS @ VIT Pune <br/>
+  🎓 B.Tech | TY | AI & Data Science @ VIT Pune <br/>
   🤖 ML Engineer • Security Tools Builder • Open Source Contributor
 </h3>
 
