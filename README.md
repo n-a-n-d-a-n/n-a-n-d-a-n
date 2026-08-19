@@ -20,6 +20,7 @@
   <a href="https://www.linkedin.com/in/nandan-kabra-334464332/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/_nandan1131_/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://leetcode.com/u/TA22/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://unstop.com/u/nandakab5679"><img src="https://img.shields.io/badge/Unstop-4A90E2?style=for-the-badge&logoColor=white"/></a>
 </p>
 
 <p align="center">
